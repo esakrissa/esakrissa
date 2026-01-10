@@ -1,6 +1,6 @@
 # Hey, I'm Esa 👋
 
-**Senior Back-End Developer** specializing in TypeScript, Python, and cloud-native systems.
+**Python & TypeScript** | **AI Agents** | **LangChain/LangGraph** | **MCP**
 
 Based in Bali, Indonesia 🌴
 
@@ -8,20 +8,20 @@ Based in Bali, Indonesia 🌴
 
 ### What I Build
 
-I design and build **microservices architectures** on AWS and GCP. My focus is on type-safe, well-tested systems that are designed before they're coded.
+I design and build **AI agents** and **microservices architectures** on AWS and GCP. My focus is on real-time AI systems, LLM integration, and well-tested, production-grade code.
 
-**Current interests:** AI agents, LangChain/LangGraph, Model Context Protocol (MCP)
+**Current focus:** Building production-ready AI agents with LangGraph, MCP, and async Python
 
 ---
 
 ### Tech Stack
 
 ```
-Languages    →  TypeScript · Python · Go · Rust
-Backend      →  Node.js · NestJS · FastAPI
+Languages    →  Python · TypeScript · Go · Rust
+AI/ML        →  LangChain · LangGraph · OpenAI API · Anthropic · MCP
+Backend      →  FastAPI · asyncio · WebSocket · Node.js · NestJS
 Cloud        →  AWS · GCP · Serverless Framework · Docker
 Databases    →  PostgreSQL · Redis · Supabase · MongoDB
-AI/ML        →  LangChain · LangGraph · OpenAI API · MCP
 ```
 
 ---
@@ -30,10 +30,12 @@ AI/ML        →  LangChain · LangGraph · OpenAI API · MCP
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**hotels_mcp_server**](https://github.com/esakrissa/hotels_mcp_server) | MCP server for hotel searches via Booking.com API | Python, MCP |
+| [**hotels_mcp_server**](https://github.com/esakrissa/hotels_mcp_server) | MCP server for hotel searches via Booking.com API | Python, MCP, asyncio |
+| [**langchain-mcp**](https://github.com/esakrissa/langchain-mcp) | LangChain Agent with MCP integration | Python, LangChain, LangGraph |
 | [**agents-sdk-telegram**](https://github.com/esakrissa/agents-sdk-telegram) | Telegram bot with OpenAI Agents SDK | Python, OpenAI |
-| [**langchain-mcp**](https://github.com/esakrissa/langchain-mcp) | LangChain Agent with MCP integration | Python, LangChain |
-| [**modern-isoner**](https://github.com/esakrissa/modern-isoner) | Microservices framework with FastAPI & Pub/Sub | Python, GCP |
+| [**modern-isoner**](https://github.com/esakrissa/modern-isoner) | Microservices framework with FastAPI & Pub/Sub | Python, FastAPI, GCP |
+| [**trading-bot**](https://github.com/esakrissa/trading-bot) | Automated trading system | Python |
+| [**user-service**](https://github.com/esakrissa/user-service) | User management microservice | TypeScript, NestJS |
 
 ---
 
