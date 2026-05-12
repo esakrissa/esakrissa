@@ -44,7 +44,7 @@ I am building toward roles and projects at the intersection of backend engineeri
 
 My final thesis focused on an AI travel agent using agent workflows and MCP-style tool integration. It strengthened my interest in building AI systems that connect language models with real-world tools, APIs, and business workflows.
 
-I also have a strong interest in reverse engineering, developer tooling, automation, crypto market systems, and business/marketing strategy.
+I enjoy exploring how software systems work under the hood, especially APIs, developer tooling, automation, and AI/crypto market infrastructure.
 
 ## What I am looking for
 
